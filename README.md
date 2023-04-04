@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Adrien Dor
 - 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning Node.js
 - 📫 How to reach me: adriendor@gmail.com
 
 <!---
